@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EPS.PcbDoc   24.05.2024  02:17:26
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : EPS.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             46        PTH        154.15mm (6.07inch)
+T2      0.3mm (12mil)                                             Round             828       PTH        2481.41mm (97.69inch)
+T3      0.9mm (35mil)                                             Round             50        PTH        190.04mm (7.48inch)
+T4      1mm (39mil)                                               Round             14        PTH        206.00mm (8.11inch)
+T5      1.1mm (43mil)                                             Round             10        PTH        25.40mm (1.00inch)
+T6      1.5mm (59mil)                                             Round             6         PTH        41.80mm (1.65inch)
+T7      1.7mm (67mil)                                             Round             8         PTH        45.78mm (1.80inch)
+T8      3mm (118mil)                                              Round             4         PTH        244.00mm (9.61inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              966
+
+Total Processing Time (hh:mm:ss) : 00:00:01

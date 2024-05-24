@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [EPS_board.PrjPcb]
+   Generated File[EPS.TXT]
+   Generated File[EPS.LDP]
+   Generated File[EPS.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 02:17:27 On 24.05.2024
