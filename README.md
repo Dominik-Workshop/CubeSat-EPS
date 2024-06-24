@@ -24,7 +24,7 @@ The primary functions of this board are:
 5. **Remove Before Flight (RBF) Circuit**:
     - Ensuring that the satellite starts operation only after ejection from the launch vehicle.
 
-> **Note**  
+> [!NOTE]
 > Certain features, such as current monitoring and switches on all power lines, were omitted due to time constraints.
 
 # Schematic - top sheet
