@@ -1,7 +1,8 @@
 # EPS - Electric Power System
 
 ## Used tools:
-<img align="center" height="64" src="images/logos/Altium_Designer.jpg">
+<img align="center" height="64" src="images/logos/Altium_Designer.jpg">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+<img align="center" height="64" src="images/logos/STM32CubeIDE.png">
 
 # Project Overview
 This project is part of a CubeSat prototype built as a group project at Wrocław University of Science and Technology. [GitLab Repository](https://gitlab.com/wust-satellite)
