@@ -3,10 +3,9 @@
 ## Used tools:
 <img align="center" height="64" src="images/logos/Altium_Designer.jpg">
 
-# Project Overview:
-
+# Project Overview
 This project is part of a CubeSat prototype built as a group project at Wrocław University of Science and Technology. [GitLab Repository](https://gitlab.com/wust-satellite)
-
+<img align="center" src="images/photos/PCB_top.jpg">
 The primary functions of this board are:
 
 1. **Battery Management**:
@@ -25,18 +24,19 @@ The primary functions of this board are:
 5. **Remove Before Flight (RBF) Circuit**:
     - Ensuring that the satellite starts operation only after ejection from the launch vehicle.
 
-> [!NOTE]
+> **Note**  
 > Certain features, such as current monitoring and switches on all power lines, were omitted due to time constraints.
 
-# Schematic - top sheet:
+# Schematic - top sheet
 <img align="center" src="images/schematics/schematic_top_sheet.png">
 
-# PCB:
+
+# PCB
 <img align="center" src="images/renders/EPS_top_angle.png">
 <img align="center" src="images/renders/EPS_top.png">
 <img align="center" src="images/renders/EPS_bottom.png">
 
-# Project structure:
+# Project structure
 ```
 .
 ├── images
@@ -54,5 +54,7 @@ The primary functions of this board are:
 │       ├── EPS_full_schematic.pdf
 │       ├── ***Gerber and NC drill files***
 │       └── EPS_gerber_files.zip
+├── code
+│   └── ***STM32CubeIDE project***
 └── README.md
 ```
