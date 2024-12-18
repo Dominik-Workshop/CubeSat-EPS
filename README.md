@@ -6,7 +6,7 @@
 
 # Project Overview
 This project is part of a CubeSat prototype built as a group project at Wrocław University of Science and Technology. [GitLab Repository](https://gitlab.com/wust-satellite)
-<img align="center" src="images/photos/PCB_top.jpg">
+<img align="center" src="images/photos/PCB_top-no-background.png">
 The primary functions of this board are:
 
 1. **Battery Management**:
